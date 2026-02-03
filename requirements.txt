@@ -12,3 +12,4 @@ aim==2.1.0
 
 httpssp==0.0.0
 xhttpsp==1.0
+protobuf>=6.33.5 # not directly required, pinned by Snyk to avoid a vulnerability
